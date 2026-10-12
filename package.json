@@ -1,0 +1,26 @@
+{
+  "name": "arcsplits-monorepo",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Composable Native USDC Revenue Splitting & Payout Primitive for Arc L1",
+  "workspaces": [
+    "packages/*"
+  ],
+  "scripts": {
+    "build": "npm run build --workspaces --if-present",
+    "test": "npm run test --workspaces --if-present"
+  },
+  "keywords": [
+    "arc",
+    "circle",
+    "usdc",
+    "splitter",
+    "revenue-sharing",
+    "ethereum",
+    "smart-contracts",
+    "solidity",
+    "defi"
+  ],
+  "author": "Dami Oyeniyi (@grzdev)",
+  "license": "MIT"
+}

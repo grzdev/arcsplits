@@ -1,0 +1,8 @@
+{
+  "network": "arcTestnet",
+  "chainId": 5042002,
+  "deployedAt": "2026-10-12T13:50:45.999Z",
+  "deployer": "0x91CcaB2689Bbe46aA3eb98693799fc181320d53b",
+  "factory": "0x90348F9A58a95d1f81b7Be6AFD874Cb4b6879D36",
+  "showcaseSplit": "0x3a6a2168034Bfa6de1B8236Abe862CB2E9CAFBE7"
+}
